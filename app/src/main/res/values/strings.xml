@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Moodule</string>
+    <string name="back">Back</string>
+    <string name="textView_1">Create New Account</string>
+    <string name="textView_2">Join the community of over one million people</string>
+    <string name="textView_3">Add profile image</string>
+    <string name="textView_4">Please make sure your photo clearly shows your face.</string>
+    <string name="yourName">Your Name</string>
+    <string name="yourEmail">Your Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="yourNameInput">John Doe</string>
+    <string name="yourEmailInput">email@email.com</string>
+    <string name="passwordInput"> •  •  •  •  •  •  •  •  •  •  •  • </string>
+    <string name="radioButtonMale">Male</string>
+    <string name="radioButtonFemale">Female</string>
+    <string name="continueButton">Continue</string>
+    <string name="camera">Take a photo</string>
+</resources>
